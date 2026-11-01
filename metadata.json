@@ -1,0 +1,6 @@
+{
+  "name": "The Barbeque Classic 90 Noida",
+  "description": "Experience Noida's premier live-grill barbecue and royal buffet at Bhutani Alphathum, Sector 90. Unlimited live sizzlers, chef counters, vibrant ambiance, and up to 55% off dining offers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
