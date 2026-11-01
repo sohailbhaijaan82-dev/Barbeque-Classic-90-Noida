@@ -4,7 +4,9 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
-  return {
+
+  return {    base: '/Barbeque-Classic-90-Noida/',
+
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
